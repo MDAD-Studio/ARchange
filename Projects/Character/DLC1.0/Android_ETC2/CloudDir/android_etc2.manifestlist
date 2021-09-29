@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "DLC1.0",
+	"BuildUrl": "DLC1.0/Android_ETC2",
+	"files": [
+		{
+			"filename": "ARchange_ARchangeDLC1.0.manifest",
+			"uniqueFilename": "ARchange_ARchangeDLC1.0.manifest",
+			"length": 6592,
+			"URL": "ARchange_ARchangeDLC1.0.manifest",
+			"hash": "722B2547D7D27AF5BE2017CED78F1C6D1D3145E0",
+			"hash256": "BC83359E7F08758865106651A7FAB1CFC27E92DDA48F131FA102A9FEA7FA1CD0"
+		}
+	]
+}
